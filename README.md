@@ -32,18 +32,25 @@ You need:
 - Ruby 2.3
 - Rails 4.2.x
 - Postgres 9.5 (May be changed by team later)
+- A javascript runtime, we recommend node.js 
 - PhantomJS (`brew install phantomjs` on macOS or
   [read instructions][phantom-js-instructions])
 
 [phantom-js-instructions]: (https://github.com/teampoltergeist/poltergeist#installing-phantomjs)
 
-Basically you need Git, Ruby and Rails.  If you have Git, Ruby and Postgres in
+You will need Node.js (which comes bundled with NPM) and it is simple to install on Mac, Windows, or Linux by downloading and installing from the node.js website here:
+https://nodejs.org/en/download/
+
+
+You will also need Git, Ruby, Rails, and PostgreSQL.  If you have Git, Ruby and Postgres in
 some version or another you're probably set. But:
 
 - If you're working on a virgin Windows machine, you're best off going with
-  the RailsInstaller at http://railsinstaller.org.
+  the RailsInstaller at http://railsinstaller.org
 - If you have a virgin Mac OSX machine, just follow the directions in
-  https://gorails.com/setup/osx/10.11-el-capitan.
+  https://gorails.com/setup/osx/10.12-sierra
+- If you are using Ubuntu Linux, this is a great guide to get you set up with Ruby, Rails, and node.js:
+  http://railsapps.github.io/installrubyonrails-ubuntu.html
 
 
 Then from a command prompt:
