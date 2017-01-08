@@ -36,7 +36,7 @@ You need:
 - PhantomJS (`brew install phantomjs` on macOS or
   [read instructions](https://github.com/teampoltergeist/poltergeist#installing-phantomjs))
 
-You will need Node.js (which comes bundled with NPM) and it is simple to install on Mac, Windows, or Linux by downloading and installing from [node.js](https://nodejs.org/en/download/)
+You will need Node.js (which comes bundled with NPM) and it is simple to install on Mac, Windows, or Linux by downloading and installing from [node.js](https://nodejs.org/en/download/).
 
 
 You will also need Git, Ruby, Rails, and PostgreSQL.  If you have Git, Ruby and Postgres in
