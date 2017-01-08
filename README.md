@@ -34,12 +34,9 @@ You need:
 - Postgres 9.5 (May be changed by team later)
 - A javascript runtime, we recommend node.js 
 - PhantomJS (`brew install phantomjs` on macOS or
-  [read instructions][phantom-js-instructions])
+  [read instructions](https://github.com/teampoltergeist/poltergeist#installing-phantomjs)
 
-[phantom-js-instructions]: (https://github.com/teampoltergeist/poltergeist#installing-phantomjs)
-
-You will need Node.js (which comes bundled with NPM) and it is simple to install on Mac, Windows, or Linux by downloading and installing from the node.js website here:
-https://nodejs.org/en/download/
+You will need Node.js (which comes bundled with NPM) and it is simple to install on Mac, Windows, or Linux by downloading and installing from [node.js](https://nodejs.org/en/download/)
 
 
 You will also need Git, Ruby, Rails, and PostgreSQL.  If you have Git, Ruby and Postgres in
