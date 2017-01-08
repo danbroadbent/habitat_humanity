@@ -45,8 +45,7 @@ some version or another you're probably set. But:
 - If you're working on a virgin Windows machine, you're best off installing Ruby and Rails with
   the [RailsInstaller](http://railsinstaller.org). For PostgreSQL, you'll want to install [EnterpriseDB](https://www.enterprisedb.com/downloads/postgres-postgresql-downloads#windows)
 - If you have a virgin Mac OSX machine, just follow these [directions](https://gorails.com/setup/osx/10.12-sierra). This includes PostgreSQL
-- If you are using Ubuntu Linux, this is a great guide to get you set up with Ruby, Rails, and node.js:
-  http://railsapps.github.io/installrubyonrails-ubuntu.html. This is a good guide to [installing PostgreSQL in Ubuntu](https://www.postgresql.org/download/linux/ubuntu/)
+- If you are using Ubuntu Linux, use this [RailsApps Guide](http://railsapps.github.io/installrubyonrails-ubuntu.html) to get set up with Ruby, Rails, and node.js and this guide to [install PostgreSQL in Ubuntu](https://www.postgresql.org/download/linux/ubuntu/)
 
 Then from a command prompt:
 
